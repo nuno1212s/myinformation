@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nuno Neto</h1>
+<h1 align="center">Hi, I'm Nuno Neto</h1>
 <h3 align="center">A developer from Portugal, specializing in software and database architecture, distributed and paralell systems. I have a passion for efficiency and scalability. I have worked on High-Availability systems with various paradigms.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuno1212s" alt="nuno1212s" /></a> </p>
