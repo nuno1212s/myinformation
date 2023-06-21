@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuno1212s" alt="nuno1212s" /></a> </p>
 
-- 🔭 I’m currently working on [FeBFT](https://github.com/nuno1212s/febft)
+- 🔭 I’m currently working on [Atlas](https://github.com/nuno1212s/atlas) and [FeBFT](https://github.com/nuno1212s/febft) .
 
 - 💬 Ask me about **Rust, Java, C, C++, Software architecture, Scalability, Distributed systems, Parallel computing, Data structures, Algorithms (and anything else really :D)**
 
